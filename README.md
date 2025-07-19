@@ -3,7 +3,7 @@
 
 This is a responsive and user-friendly calculator built with **React**. It supports basic arithmetic, parentheses, exponents, and follows the **BIDMAS** order of operations.
 
-![Calculator Screenshot]() <!-- Optional image if you add a screenshot -->
+![Calculator Screenshot](image.png) <!-- Optional image if you add a screenshot -->
 
 ---
 

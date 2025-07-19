@@ -44,7 +44,7 @@ This is a responsive and user-friendly calculator built with **React**. It suppo
 ```bash
 # Clone the project
 git clone https://github.com/Tempest200/calculator.git
-cd your-repo-name
+cd calculator
 
 # Install dependencies
 npm install
